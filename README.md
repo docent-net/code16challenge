@@ -6,8 +6,8 @@ zróbmy to w ramach wspierania ciężko chorej Majki ❤
 Zabawa polega na tym, że ktoś nas wskazuje, my piszemy 16 linijek dowolnego
 kodu i wspieramy Maję:
 
-Szczegóły akcji: [https://www.siepomaga.pl/code16challenge]
-Szczegóły zabawy: [https://www.code16challenge.pl]
+- Szczegóły akcji: [https://www.siepomaga.pl/code16challenge]
+- Szczegóły zabawy: [https://www.code16challenge.pl]
 
 Przedstawiam Wam bieda wersję kontenerów linuksowych (aka Dockera). Potrafi w
 kilka namespace'ów: mount, PID oraz UTS. Czyli, że kontener ma własnego
